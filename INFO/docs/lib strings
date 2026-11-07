@@ -1,0 +1,13 @@
+Implementation has two namespace, charArray - work with raw strings, char arrays, and cstr, type that use char array functions.
+Cstr functions use charArray functions.
+
+bool soduum_charArray_equals(char *f, char *s) {
+
+	equals symvols from f charArray and s charArray. 
+	if arrays are same return true. If no false.
+}
+
+Cstr is dynamic string. If small, countain on stack, else go to heap.
+
+type soduum_cstr is struct:
+

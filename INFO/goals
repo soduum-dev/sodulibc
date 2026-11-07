@@ -1,0 +1,8 @@
+COMMIT MESSAGE:
+
+strings:
+	Maybe make field that contain adress of object. No need to calculate adress in memory at stack if function do a lot. 
+
+allocaotrs:
+	
+
